@@ -38,7 +38,6 @@ I also write practical tips on how mid-senior engineers can develop their own ca
 - [Serverless](https://www.serverless.com/)
 - [Bash](https://devhints.io/bash)
 
-  👻 What I do besides hammer keyboards: I enjoy playing boardgames, cycling (Riverside MTB), running (Salomon
-  Supercross 3) and watching cheesy horror movies like [Sharknado](https://youtu.be/M-pXDoe5a0E) on my wife's Netflix account.
+👻 What I do besides hammer keyboards: I enjoy playing boardgames, cycling (Riverside MTB), running (Salomon Supercross 3) and watching cheesy horror movies like [Sharknado](https://youtu.be/M-pXDoe5a0E) on my wife's Netflix account.
 
 [Ask me anything](https://github.com/larry-dalmeida/ama)
