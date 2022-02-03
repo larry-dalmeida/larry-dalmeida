@@ -12,7 +12,7 @@ On Friday mornings I invest time in improving psychological safety and cultivati
 
 Having received valuable insights from great mentors, I share some practical tips on how mid-senior engineers can grow their own career at [beyondpullrequests.com](https://beyondpullrequests.com/).
 
-## About Me
+## Now bordering on TMI
 
 🔭 I’m currently working on: Getting my AWS Solutions Architect certification so I can build secure, high-performing, resilient, and efficient infrastructure for a variety of applications and workloads.
 
