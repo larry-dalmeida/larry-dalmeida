@@ -3,13 +3,14 @@
 👋 Hi, I'm Larry. 
 
 I'm a software engineer whose current focus is to enable [Zalando](https://corporate.zalando.com/en/brand-hub/our-sustainability-strategy) customers to make more sustainable fashion choices. 
+
 Previously I have worked at [Zalon](https://www.zalon.de/?gclid=CjwKCAiAl-6PBhBCEiwAc2GOVMI5pcrIfvzglW5mspTS80apcRka5jcE4ALwbx4III8pBi5uPRtvAhoCfOQQAvD_BwE) where I developed web apps to launch and scale a subscription service providing curated fashion boxes. 
 
 Before that I designed frontend architecture for online retails stores like [Yankee Candle](https://www.yankeecandle.com/) with [Amplifi](https://www.goamplifi.com/).
 
-Besides writing code I greatly enjoy building psychologically safe and high performing teams, mentoring and interviewing. I try to work as closely as I can with the product management and business development teams, mostly so I can learn how to launch my own SaaS apps 😉
+On Friday mornings I invest time in improving psychological safety and cultivating high performance in my team. 
 
-I also write practical tips on how mid-senior engineers can develop their own career at [beyondpullrequests.com](https://beyondpullrequests.com/).
+Having received valuable insights from great mentors, I share some practical tips on how mid-senior engineers can grow their own career at [beyondpullrequests.com](https://beyondpullrequests.com/).
 
 ## About Me
 
