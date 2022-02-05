@@ -4,13 +4,13 @@
 
 I'm a software engineer whose current focus is to enable [Zalando](https://corporate.zalando.com/en/brand-hub/our-sustainability-strategy) customers to make more sustainable fashion choices. 
 
-Previously I have worked at [Zalon](https://www.zalon.de/?gclid=CjwKCAiAl-6PBhBCEiwAc2GOVMI5pcrIfvzglW5mspTS80apcRka5jcE4ALwbx4III8pBi5uPRtvAhoCfOQQAvD_BwE) where I developed web apps to launch and scale a subscription service providing curated fashion boxes. 
+Previously I worked at [Zalon](https://www.zalon.de/?gclid=CjwKCAiAl-6PBhBCEiwAc2GOVMI5pcrIfvzglW5mspTS80apcRka5jcE4ALwbx4III8pBi5uPRtvAhoCfOQQAvD_BwE) where I developed web apps to launch and scale a subscription service providing boxes of curated fashion. 
 
-Before that I designed frontend architecture for online retails stores like [Yankee Candle](https://www.yankeecandle.com/) with [Amplifi](https://www.goamplifi.com/).
+Before that I designed frontend architecture for online retail stores like [Yankee Candle](https://www.yankeecandle.com/) with [Amplifi](https://www.goamplifi.com/).
 
-On Friday mornings I invest time in improving psychological safety and cultivating high performance in my team. 
+I particularly enjoy building tools that enable my colleagues and I like to invest time in encouraging psychological safety and cultivating high performance in my team.
 
-Having received valuable insights from great mentors, I share some practical tips on how mid-senior engineers can grow their own career at [beyondpullrequests.com](https://beyondpullrequests.com/).
+Having received valuable insights from great mentors, I share some practical tips on how engineers can grow their own career at [beyondpullrequests.com](https://beyondpullrequests.com/).
 
 ## Now bordering on TMI
 
@@ -39,6 +39,6 @@ Having received valuable insights from great mentors, I share some practical tip
 - [Serverless](https://www.serverless.com/)
 - [Bash](https://devhints.io/bash)
 
-👻 What I do besides hammer keyboards: I enjoy playing boardgames, cycling (Riverside MTB), running (Salomon Supercross 3) and watching cheesy horror movies like [Sharknado](https://youtu.be/M-pXDoe5a0E) on my wife's Netflix account.
+👻 What I do besides hammering keys: I enjoy playing boardgames, cycling ([Riverside MTB](https://contents.mediadecathlon.com/p2027797/k$f1a0156d2da12789ceb449299457c954/sq/trekkingrad-28-zoll-riverside-320-tr-herren.jpg?format=auto&f=969x969&quality=40)), running ([Salomon Supercross 3](https://www.salomon.com/de-de/shop-emea/media/catalog/product/L/4/L41453500_bde6677d2d60b37c2745e1467e621fd8.jpg?dpr=3&fit=cover&orient=1&quality=80&optimize=high&format=pjpg&auto=webp&width=650)) and watching cheesy horror movies like [Sharknado](https://youtu.be/M-pXDoe5a0E) on my wife's Netflix account.
 
 [Ask me anything](https://github.com/larry-dalmeida/ama)
