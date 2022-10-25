@@ -10,7 +10,7 @@ Before that I designed frontend architecture for online retail stores like [Yank
 
 I particularly enjoy building tools that enable my colleagues and I like to invest time in encouraging psychological safety and cultivating high performance in my team.
 
-Having received valuable insights from great mentors, I share some practical tips on how engineers can grow their own career at [beyondpullrequests.com](https://beyondpullrequests.com/).
+Having received valuable insights from great mentors, I share some practical tips on how engineers can grow their own career at on my [blog](https://larrydalmeida.com/).
 
 ## Now bordering on TMI
 
